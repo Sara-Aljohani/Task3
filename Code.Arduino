@@ -7,7 +7,7 @@
 #define DHTTYPE DHT22 
 DHT dht22(DHTPIN, DHTTYPE); 
 
-String URL = "http://192.168.8.103/se/dht.php/se/dht.php";
+String URL = "http://192.168.8.103/se/dht.php";
 
 const char* ssid = "MERCUSYS_BF60"; 
 const char* password = "100200300K"; 
